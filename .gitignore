@@ -58,6 +58,6 @@ typings/
 .env
 
 # MacOS files:
-.DS_Store
-.DS_Store
-.DS_Store
+*/.DS_Store
+
+adc-ads1x15/.DS_Store
