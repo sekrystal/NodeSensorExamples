@@ -67,3 +67,5 @@ $ sudo node index.js
 ````
 And you should get some sensor readings.
 
+The [temp-humidity-client.js](temp-humidity-client.js) example shows how to read a temperature and a humidity sensor and how to send the data using an HTTPS request to a server.
+
